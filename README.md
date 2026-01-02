@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Khay-muel
 - 👀 A Quality Assurance Tester
-- 🌱 I’m interested in smart contracts and everything web3
+- 🌱 I’m interested in everything web3 as well
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me izukript0@protonmail.com
 
